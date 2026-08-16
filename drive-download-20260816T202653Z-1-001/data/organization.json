@@ -1,0 +1,21 @@
+{
+  "org_id": "org_nxc",
+  "name": "Nexcart Logistics Pvt Ltd",
+  "timezone": "Asia/Kolkata",
+  "base_city": "Hyderabad",
+  "depots": [
+    {
+      "depot_id": "DEP-01",
+      "name": "Gachibowli Depot",
+      "lat": 17.4401,
+      "lon": 78.3489
+    },
+    {
+      "depot_id": "DEP-02",
+      "name": "Uppal Depot",
+      "lat": 17.398,
+      "lon": 78.559
+    }
+  ],
+  "api_token": "nxc_demo_token_9f2b41c7"
+}

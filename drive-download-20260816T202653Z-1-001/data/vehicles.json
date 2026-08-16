@@ -1,0 +1,730 @@
+[
+  {
+    "vehicle_id": "VEH-001",
+    "org_id": "org_nxc",
+    "registration_no": "TS7UJ7053",
+    "make": "Tata",
+    "model": "Ace Gold",
+    "vehicle_type": "MINI_TRUCK",
+    "payload_capacity_kg": 750,
+    "fuel_type": "DIESEL",
+    "year": 2024,
+    "odometer_km": 159806.8,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-211F6E86",
+      "model": "Nexcam X2",
+      "firmware": "3.1.7",
+      "sim_iccid": "8991941705246264921",
+      "last_heartbeat_at": "2026-08-10T04:07:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-12-03",
+    "fitness_expiry": "2027-05-02"
+  },
+  {
+    "vehicle_id": "VEH-002",
+    "org_id": "org_nxc",
+    "registration_no": "TS12VJ2310",
+    "make": "Mahindra",
+    "model": "Bolero Pickup",
+    "vehicle_type": "PICKUP",
+    "payload_capacity_kg": 1500,
+    "fuel_type": "ELECTRIC",
+    "year": 2020,
+    "odometer_km": 15366.5,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-0E5D43EB",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.1.0",
+      "sim_iccid": "8991424109465810400",
+      "last_heartbeat_at": "2026-08-10T08:11:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-12-19",
+    "fitness_expiry": "2026-02-26"
+  },
+  {
+    "vehicle_id": "VEH-003",
+    "org_id": "org_nxc",
+    "registration_no": "TS9VJ4657",
+    "make": "Ashok Leyland",
+    "model": "Dost+",
+    "vehicle_type": "LCV",
+    "payload_capacity_kg": 1250,
+    "fuel_type": "CNG",
+    "year": 2024,
+    "odometer_km": 155856.5,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-02",
+    "device": {
+      "device_id": "DCAM-28D32590",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.5.5",
+      "sim_iccid": "8991446880704570600",
+      "last_heartbeat_at": "2026-08-10T22:49:02Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-12-05",
+    "fitness_expiry": "2029-06-06"
+  },
+  {
+    "vehicle_id": "VEH-004",
+    "org_id": "org_nxc",
+    "registration_no": "TS12UJ7550",
+    "make": "Tata",
+    "model": "Intra V30",
+    "vehicle_type": "LCV",
+    "payload_capacity_kg": 1300,
+    "fuel_type": "DIESEL",
+    "year": 2025,
+    "odometer_km": 36566.8,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-02",
+    "device": {
+      "device_id": "DCAM-FA1B8371",
+      "model": "Nexcam X2",
+      "firmware": "3.2.11",
+      "sim_iccid": "8991623629421298293",
+      "last_heartbeat_at": "2026-08-11T05:15:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-09-21",
+    "fitness_expiry": "2028-03-03"
+  },
+  {
+    "vehicle_id": "VEH-005",
+    "org_id": "org_nxc",
+    "registration_no": "TS7ZH8782",
+    "make": "Eicher",
+    "model": "Pro 2049",
+    "vehicle_type": "TRUCK",
+    "payload_capacity_kg": 2500,
+    "fuel_type": "ELECTRIC",
+    "year": 2022,
+    "odometer_km": 128347.6,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-4AC2CC12",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.8.1",
+      "sim_iccid": "8991944461514535989",
+      "last_heartbeat_at": "2026-08-11T23:09:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-10-13",
+    "fitness_expiry": "2026-12-28"
+  },
+  {
+    "vehicle_id": "VEH-006",
+    "org_id": "org_nxc",
+    "registration_no": "TS12VA6149",
+    "make": "Maruti",
+    "model": "Super Carry",
+    "vehicle_type": "MINI_TRUCK",
+    "payload_capacity_kg": 740,
+    "fuel_type": "ELECTRIC",
+    "year": 2020,
+    "odometer_km": 49951.3,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-B3715158",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.8.0",
+      "sim_iccid": "8991535594017408180",
+      "last_heartbeat_at": "2026-08-12T03:13:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-12-14",
+    "fitness_expiry": "2027-11-11"
+  },
+  {
+    "vehicle_id": "VEH-007",
+    "org_id": "org_nxc",
+    "registration_no": "TS9UD6841",
+    "make": "Tata",
+    "model": "407 Gold SFC",
+    "vehicle_type": "TRUCK",
+    "payload_capacity_kg": 2590,
+    "fuel_type": "ELECTRIC",
+    "year": 2020,
+    "odometer_km": 13727.4,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-AFF6C08B",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.6.2",
+      "sim_iccid": "8991651777161169646",
+      "last_heartbeat_at": "2026-08-12T07:05:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-09-05",
+    "fitness_expiry": "2028-03-14"
+  },
+  {
+    "vehicle_id": "VEH-008",
+    "org_id": "org_nxc",
+    "registration_no": "TS10UC1670",
+    "make": "Mahindra",
+    "model": "Supro Profit",
+    "vehicle_type": "MINI_TRUCK",
+    "payload_capacity_kg": 850,
+    "fuel_type": "DIESEL",
+    "year": 2019,
+    "odometer_km": 17048.7,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-02",
+    "device": {
+      "device_id": "DCAM-60E49CA8",
+      "model": "Nexcam Lite",
+      "firmware": "3.7.2",
+      "sim_iccid": "8991525415147839567",
+      "last_heartbeat_at": "2026-08-12T22:09:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-11-26",
+    "fitness_expiry": "2026-08-17"
+  },
+  {
+    "vehicle_id": "VEH-009",
+    "org_id": "org_nxc",
+    "registration_no": "TS10UC6861",
+    "make": "Tata",
+    "model": "Ace Gold",
+    "vehicle_type": "MINI_TRUCK",
+    "payload_capacity_kg": 750,
+    "fuel_type": "DIESEL",
+    "year": 2019,
+    "odometer_km": 66254.1,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-40819914",
+      "model": "Nexcam Lite",
+      "firmware": "3.4.0",
+      "sim_iccid": "8991142536148596150",
+      "last_heartbeat_at": "2026-08-13T05:45:02Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-10-26",
+    "fitness_expiry": "2026-11-11"
+  },
+  {
+    "vehicle_id": "VEH-010",
+    "org_id": "org_nxc",
+    "registration_no": "TS12XA8762",
+    "make": "Mahindra",
+    "model": "Bolero Pickup",
+    "vehicle_type": "PICKUP",
+    "payload_capacity_kg": 1500,
+    "fuel_type": "CNG",
+    "year": 2025,
+    "odometer_km": 170166.6,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-35250C94",
+      "model": "Nexcam X2",
+      "firmware": "3.7.5",
+      "sim_iccid": "8991383608863889453",
+      "last_heartbeat_at": "2026-08-13T06:01:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-12-25",
+    "fitness_expiry": "2026-03-02"
+  },
+  {
+    "vehicle_id": "VEH-011",
+    "org_id": "org_nxc",
+    "registration_no": "TS7XA8745",
+    "make": "Ashok Leyland",
+    "model": "Dost+",
+    "vehicle_type": "LCV",
+    "payload_capacity_kg": 1250,
+    "fuel_type": "DIESEL",
+    "year": 2020,
+    "odometer_km": 28896.4,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-02",
+    "device": {
+      "device_id": "DCAM-C0676CD8",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.1.7",
+      "sim_iccid": "8991875403502243923",
+      "last_heartbeat_at": "2026-08-13T01:03:58Z",
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-10-17",
+    "fitness_expiry": "2027-03-01"
+  },
+  {
+    "vehicle_id": "VEH-012",
+    "org_id": "org_nxc",
+    "registration_no": "TS7UJ8782",
+    "make": "Tata",
+    "model": "Intra V30",
+    "vehicle_type": "LCV",
+    "payload_capacity_kg": 1300,
+    "fuel_type": "DIESEL",
+    "year": 2021,
+    "odometer_km": 16559.8,
+    "status": "ACTIVE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-3E9DDF4F",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.6.9",
+      "sim_iccid": "8991907653063775076",
+      "last_heartbeat_at": null,
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-10-12",
+    "fitness_expiry": "2028-09-16"
+  },
+  {
+    "vehicle_id": "VEH-013",
+    "org_id": "org_nxc",
+    "registration_no": "TS9UB8260",
+    "make": "Eicher",
+    "model": "Pro 2049",
+    "vehicle_type": "TRUCK",
+    "payload_capacity_kg": 2500,
+    "fuel_type": "ELECTRIC",
+    "year": 2022,
+    "odometer_km": 89929.7,
+    "status": "IN_MAINTENANCE",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-121B0381",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.1.10",
+      "sim_iccid": "8991602109051178232",
+      "last_heartbeat_at": null,
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-12-26",
+    "fitness_expiry": "2027-09-25"
+  },
+  {
+    "vehicle_id": "VEH-014",
+    "org_id": "org_nxc",
+    "registration_no": "TS9UC4262",
+    "make": "Maruti",
+    "model": "Super Carry",
+    "vehicle_type": "MINI_TRUCK",
+    "payload_capacity_kg": 740,
+    "fuel_type": "ELECTRIC",
+    "year": 2023,
+    "odometer_km": 52212.9,
+    "status": "DECOMMISSIONED",
+    "home_depot_id": "DEP-01",
+    "device": {
+      "device_id": "DCAM-8E06D1A8",
+      "model": "Nexcam X2 Pro",
+      "firmware": "3.5.3",
+      "sim_iccid": "8991360163015307748",
+      "last_heartbeat_at": null,
+      "sensors": {
+        "road_facing_camera": {
+          "resolution": "1920x1080",
+          "fov_deg": 140,
+          "adas": [
+            "FCW",
+            "LDW",
+            "HEADWAY",
+            "PEDESTRIAN"
+          ]
+        },
+        "driver_facing_camera": {
+          "resolution": "1280x720",
+          "fov_deg": 110,
+          "ir": true,
+          "dms": [
+            "DROWSINESS",
+            "DISTRACTION",
+            "PHONE",
+            "SEATBELT"
+          ]
+        },
+        "crash_sensor": {
+          "model": "Bosch MM5.10 class",
+          "axes": 6,
+          "trigger_threshold_g": 3.5,
+          "sample_hz": 400
+        }
+      }
+    },
+    "insurance_expiry": "2026-11-02",
+    "fitness_expiry": "2027-09-09"
+  }
+]

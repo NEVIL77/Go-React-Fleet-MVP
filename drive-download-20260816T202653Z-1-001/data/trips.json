@@ -1,0 +1,176 @@
+[
+  {
+    "trip_id": "TRIP-1001",
+    "org_id": "org_nxc",
+    "vehicle_id": "VEH-001",
+    "driver_id": "DRV-001",
+    "route_name": "Gachibowli - Shamshabad Airport",
+    "origin": {
+      "lat": 17.4401,
+      "lon": 78.3489
+    },
+    "destination": {
+      "lat": 17.2403,
+      "lon": 78.4294
+    },
+    "scheduled_start_at": "2026-08-10T03:30:00Z",
+    "started_at": "2026-08-10T03:30:00Z",
+    "ended_at": "2026-08-10T04:08:00Z",
+    "status": "COMPLETED",
+    "distance_km": 23.63,
+    "duration_s": 2280,
+    "telemetry_file": "data/telemetry/TRIP-1001.ndjson",
+    "frame_count": 1140,
+    "cargo": {
+      "manifest_id": "MAN-36408",
+      "weight_kg": 1823,
+      "type": "ELECTRONICS"
+    },
+    "live_replay": false
+  },
+  {
+    "trip_id": "TRIP-1002",
+    "org_id": "org_nxc",
+    "vehicle_id": "VEH-002",
+    "driver_id": "DRV-002",
+    "route_name": "Kukatpally - Uppal",
+    "origin": {
+      "lat": 17.4849,
+      "lon": 78.3915
+    },
+    "destination": {
+      "lat": 17.398,
+      "lon": 78.559
+    },
+    "scheduled_start_at": "2026-08-10T07:30:00Z",
+    "started_at": "2026-08-10T07:30:00Z",
+    "ended_at": "2026-08-10T08:12:00Z",
+    "status": "COMPLETED",
+    "distance_km": 28.1,
+    "duration_s": 2520,
+    "telemetry_file": "data/telemetry/TRIP-1002.ndjson",
+    "frame_count": 1260,
+    "cargo": {
+      "manifest_id": "MAN-61190",
+      "weight_kg": 219,
+      "type": "FMCG"
+    },
+    "live_replay": false
+  },
+  {
+    "trip_id": "TRIP-1003",
+    "org_id": "org_nxc",
+    "vehicle_id": "VEH-003",
+    "driver_id": "DRV-003",
+    "route_name": "Secunderabad - Medchal",
+    "origin": {
+      "lat": 17.4399,
+      "lon": 78.4983
+    },
+    "destination": {
+      "lat": 17.628,
+      "lon": 78.484
+    },
+    "scheduled_start_at": "2026-08-10T22:30:00Z",
+    "started_at": "2026-08-10T22:30:00Z",
+    "ended_at": "2026-08-10T22:49:04Z",
+    "status": "COMPLETED_WITH_INCIDENT",
+    "distance_km": 12.07,
+    "duration_s": 1144,
+    "telemetry_file": "data/telemetry/TRIP-1003.ndjson",
+    "frame_count": 572,
+    "cargo": {
+      "manifest_id": "MAN-56004",
+      "weight_kg": 2142,
+      "type": "PHARMA"
+    },
+    "live_replay": false
+  },
+  {
+    "trip_id": "TRIP-1005",
+    "org_id": "org_nxc",
+    "vehicle_id": "VEH-005",
+    "driver_id": "DRV-005",
+    "route_name": "Patancheru - Kompally",
+    "origin": {
+      "lat": 17.5312,
+      "lon": 78.2645
+    },
+    "destination": {
+      "lat": 17.5442,
+      "lon": 78.4801
+    },
+    "scheduled_start_at": "2026-08-11T22:30:00Z",
+    "started_at": "2026-08-11T22:30:00Z",
+    "ended_at": "2026-08-11T23:10:00Z",
+    "status": "COMPLETED",
+    "distance_km": 18.45,
+    "duration_s": 2400,
+    "telemetry_file": "data/telemetry/TRIP-1005.ndjson",
+    "frame_count": 1200,
+    "cargo": {
+      "manifest_id": "MAN-47897",
+      "weight_kg": 1083,
+      "type": "PERISHABLE"
+    },
+    "live_replay": false
+  },
+  {
+    "trip_id": "TRIP-1009",
+    "org_id": "org_nxc",
+    "vehicle_id": "VEH-009",
+    "driver_id": "DRV-010",
+    "route_name": "Secunderabad - Medchal (return)",
+    "origin": {
+      "lat": 17.628,
+      "lon": 78.484
+    },
+    "destination": {
+      "lat": 17.4399,
+      "lon": 78.4983
+    },
+    "scheduled_start_at": "2026-08-13T05:30:00Z",
+    "started_at": "2026-08-13T05:30:00Z",
+    "ended_at": null,
+    "status": "IN_PROGRESS",
+    "distance_km": 11.66,
+    "duration_s": 904,
+    "telemetry_file": "data/telemetry/TRIP-1009.ndjson",
+    "frame_count": 452,
+    "cargo": {
+      "manifest_id": "MAN-43529",
+      "weight_kg": 1496,
+      "type": "PERISHABLE"
+    },
+    "live_replay": true
+  },
+  {
+    "trip_id": "TRIP-1010",
+    "org_id": "org_nxc",
+    "vehicle_id": "VEH-010",
+    "driver_id": "DRV-001",
+    "route_name": "Miyapur - LB Nagar (return)",
+    "origin": {
+      "lat": 17.3496,
+      "lon": 78.548
+    },
+    "destination": {
+      "lat": 17.4948,
+      "lon": 78.3578
+    },
+    "scheduled_start_at": "2026-08-13T05:30:00Z",
+    "started_at": "2026-08-13T05:30:00Z",
+    "ended_at": null,
+    "status": "IN_PROGRESS",
+    "distance_km": 17.63,
+    "duration_s": 1920,
+    "telemetry_file": "data/telemetry/TRIP-1010.ndjson",
+    "frame_count": 960,
+    "cargo": {
+      "manifest_id": "MAN-57397",
+      "weight_kg": 855,
+      "type": "PHARMA"
+    },
+    "live_replay": true
+  }
+]

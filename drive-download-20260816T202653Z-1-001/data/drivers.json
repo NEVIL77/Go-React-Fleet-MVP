@@ -1,0 +1,112 @@
+[
+  {
+    "driver_id": "DRV-001",
+    "org_id": "org_nxc",
+    "name": "Ravi Teja Kondapalli",
+    "phone": "+919834925173",
+    "licence_no": "TS1820186806348",
+    "licence_expiry": "2032-08-02",
+    "status": "ACTIVE",
+    "safety_score": 70,
+    "joined_on": "2019-11-27"
+  },
+  {
+    "driver_id": "DRV-002",
+    "org_id": "org_nxc",
+    "name": "Imran Shaikh",
+    "phone": "+919889230346",
+    "licence_no": "TS2320193174698",
+    "licence_expiry": "2028-11-21",
+    "status": "ACTIVE",
+    "safety_score": 65,
+    "joined_on": "2023-04-26"
+  },
+  {
+    "driver_id": "DRV-003",
+    "org_id": "org_nxc",
+    "name": "Anitha Reddy",
+    "phone": "+919824431040",
+    "licence_no": "TS2120114619809",
+    "licence_expiry": "2028-01-02",
+    "status": "ACTIVE",
+    "safety_score": 72,
+    "joined_on": "2024-08-05"
+  },
+  {
+    "driver_id": "DRV-004",
+    "org_id": "org_nxc",
+    "name": "Sandeep Yadav",
+    "phone": "+919865628017",
+    "licence_no": "TS1920142587199",
+    "licence_expiry": "2029-07-25",
+    "status": "ACTIVE",
+    "safety_score": 81,
+    "joined_on": "2022-03-27"
+  },
+  {
+    "driver_id": "DRV-005",
+    "org_id": "org_nxc",
+    "name": "Mohammed Arif",
+    "phone": "+919870121252",
+    "licence_no": "TS3219926148725",
+    "licence_expiry": "2031-06-10",
+    "status": "ACTIVE",
+    "safety_score": 72,
+    "joined_on": "2021-06-18"
+  },
+  {
+    "driver_id": "DRV-006",
+    "org_id": "org_nxc",
+    "name": "Lakshmi Prasanna",
+    "phone": "+919859338280",
+    "licence_no": "TS1019976699531",
+    "licence_expiry": "2029-12-10",
+    "status": "ACTIVE",
+    "safety_score": 90,
+    "joined_on": "2024-01-10"
+  },
+  {
+    "driver_id": "DRV-007",
+    "org_id": "org_nxc",
+    "name": "Vikram Nair",
+    "phone": "+919849083325",
+    "licence_no": "TS1319992482546",
+    "licence_expiry": "2030-10-21",
+    "status": "ACTIVE",
+    "safety_score": 71,
+    "joined_on": "2022-01-04"
+  },
+  {
+    "driver_id": "DRV-008",
+    "org_id": "org_nxc",
+    "name": "Joseph D'Souza",
+    "phone": "+919859487907",
+    "licence_no": "TS2220118201947",
+    "licence_expiry": "2032-02-01",
+    "status": "ACTIVE",
+    "safety_score": 72,
+    "joined_on": "2024-04-02"
+  },
+  {
+    "driver_id": "DRV-009",
+    "org_id": "org_nxc",
+    "name": "Praveen Kumar Goud",
+    "phone": "+919836255040",
+    "licence_no": "TS3220188508871",
+    "licence_expiry": "2031-11-09",
+    "status": "ACTIVE",
+    "safety_score": 73,
+    "joined_on": "2021-09-22"
+  },
+  {
+    "driver_id": "DRV-010",
+    "org_id": "org_nxc",
+    "name": "Sunita Bai",
+    "phone": "+919874275239",
+    "licence_no": "TS3420176983070",
+    "licence_expiry": "2028-11-13",
+    "status": "ACTIVE",
+    "safety_score": 92,
+    "joined_on": "2022-09-16"
+  }
+]
